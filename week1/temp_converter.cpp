@@ -13,7 +13,8 @@ int main() {
 
     std::cout << "enter unit (C for Celsius, F for Fahrenheit): ";
     std::cin >> unit;
-
+    std::cout << std::fixed << std::setprecision(2);
+    
     if (unit == 'C' || unit == 'c') {
         convertedTemp = (temperature * 9.0 / 5.0) + 32;
         std::cout <<  temperature << "°C is equal to " << convertedTemp << "°F" << std::endl;
