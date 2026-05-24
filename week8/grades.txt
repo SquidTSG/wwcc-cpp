@@ -1,0 +1,8 @@
+# Student Grade Records
+# Format: LastName FirstName Grade1 Grade2 Grade3
+
+Smith Alice 88 92 79
+Johnson Bob 74 81 90
+Martinez Carol 95 97 93
+Lee David 62 70 68
+Patel Emma 85 88 91
