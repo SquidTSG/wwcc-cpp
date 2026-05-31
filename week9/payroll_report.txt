@@ -1,0 +1,23 @@
+=== Payroll Report ===
+
+=== Engineering ===
+David Park                     $2090.00
+Alice Chen                     $1995.00
+Subtotal: $4085.00
+
+=== Sales ===
+Frank Torres                   $2103.75
+Bob Martinez                   $1064.00
+Subtotal: $3167.75
+
+=== HR ===
+Grace Kim                      $1105.50
+Carol Singh                    $1137.50
+Subtotal: $2243.00
+
+=== Operations ===
+Henry Okafor                   $1812.50
+Emma Wilson                    $870.00
+Subtotal: $2682.50
+
+Total Payroll: $12178.25

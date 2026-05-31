@@ -1,0 +1,6 @@
+Regional Soccer Cup | 2025-09-14 | Sports | 2500 | $18.00
+Jazz Under the Stars | 2025-08-02 | Concert | 600 | $35.75
+Dev Conf Northwest | 2025-10-05 | Conference | 420 | $199.00
+Tech Summit 2025 | 2025-06-20 | Conference | 350 | $129.00
+Leadership Workshop | 2025-06-28 | Workshop | 75 | $89.00
+Watercolor Workshop | 2025-07-15 | Workshop | 40 | $60.00
